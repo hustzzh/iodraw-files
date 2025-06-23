@@ -13,17 +13,23 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OsWlckKVLdlkEPSv1t0k-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OsWlckKVLdlkEPSv1t0k-0" target="OsWlckKVLdlkEPSv1t0k-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsWlckKVLdlkEPSv1t0k-0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="70" width="70" height="40" as="geometry" />
+          <mxGeometry x="160" y="80" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OsWlckKVLdlkEPSv1t0k-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;数据采集与预处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="250" width="150" height="40" as="geometry" />
+          <mxGeometry x="120" y="220" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OsWlckKVLdlkEPSv1t0k-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模型构建与训练&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="390" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OsWlckKVLdlkEPSv1t0k-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;实验验证与优化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsWlckKVLdlkEPSv1t0k-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OsWlckKVLdlkEPSv1t0k-5" target="OsWlckKVLdlkEPSv1t0k-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsWlckKVLdlkEPSv1t0k-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;运动特性分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="150" width="110" height="40" as="geometry" />
