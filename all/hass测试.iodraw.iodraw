@@ -76,8 +76,8 @@
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-48" value="Port485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="176" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-49" value="TBUS-485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="280" width="80" height="30" as="geometry" />
+        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-49" value="5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="286" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
