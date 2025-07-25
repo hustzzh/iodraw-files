@@ -29,7 +29,7 @@
           <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;测试盒&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="557" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;信号发生器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="140" height="60" as="geometry" />
