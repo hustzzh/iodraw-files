@@ -62,13 +62,13 @@
           <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-44" value="USB-DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="90" width="80" height="30" as="geometry" />
+          <mxGeometry x="460" y="93" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-45" value="USB-TBUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="460" y="123" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-46" value="USB-TBUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="167" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
