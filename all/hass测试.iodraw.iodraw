@@ -50,13 +50,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;测试盒&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ue6rxHnQ4mwtMcXb9y9-7" target="4ue6rxHnQ4mwtMcXb9y9-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;信号发生器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="320" width="140" height="60" as="geometry" />
+          <mxGeometry x="550" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-8" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;PC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
