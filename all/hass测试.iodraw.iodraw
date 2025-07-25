@@ -55,13 +55,13 @@
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4ue6rxHnQ4mwtMcXb9y9-6" target="4ue6rxHnQ4mwtMcXb9y9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;测试盒&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-6" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;测试盒&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-7" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;信号发生器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-8" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;PC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-8" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;PC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-44" value="USB-DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
