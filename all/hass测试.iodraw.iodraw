@@ -70,11 +70,11 @@
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-46" value="TBUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="167" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-47" value="TBUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-47" value="TBUS-485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-48" value="Port485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="176" width="70" height="30" as="geometry" />
+          <mxGeometry x="330" y="176" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
