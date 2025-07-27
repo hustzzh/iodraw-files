@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3399FF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="310" y="210" width="160" height="300" as="geometry" />
+          <mxGeometry x="263" y="210" width="207" height="300" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4ue6rxHnQ4mwtMcXb9y9-1" target="4ue6rxHnQ4mwtMcXb9y9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,15 +78,6 @@
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-48" value="Port485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="176" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-49" value="5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="493" y="243" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-50" value="5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="493" y="336" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4ue6rxHnQ4mwtMcXb9y9-51" value="3.3V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="430" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-52" value="SIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="493" y="460" width="40" height="30" as="geometry" />
