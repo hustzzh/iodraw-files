@@ -97,8 +97,8 @@
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-54" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;试验台&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="359" y="508" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zPOgwJXefgk_48lZ3Ebi-6" value="TBUS-485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="183" y="295" width="80" height="30" as="geometry" />
+        <mxCell id="zPOgwJXefgk_48lZ3Ebi-6" value="RS485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="196" y="297" width="55" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
