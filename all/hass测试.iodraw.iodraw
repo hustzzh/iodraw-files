@@ -26,7 +26,7 @@
         <mxCell id="ngtJXKcWdJtiA1QuH24o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ue6rxHnQ4mwtMcXb9y9-8" target="4ue6rxHnQ4mwtMcXb9y9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ngtJXKcWdJtiA1QuH24o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ue6rxHnQ4mwtMcXb9y9-8" target="4ue6rxHnQ4mwtMcXb9y9-1">
+        <mxCell id="ngtJXKcWdJtiA1QuH24o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4ue6rxHnQ4mwtMcXb9y9-8" target="4ue6rxHnQ4mwtMcXb9y9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ue6rxHnQ4mwtMcXb9y9-8" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;上位机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
