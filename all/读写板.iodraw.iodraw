@@ -18,6 +18,11 @@
             <mxPoint x="429.1428571428571" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JqfwRANyBKlxX18AEhvM-17" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JqfwRANyBKlxX18AEhvM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.4000069754463" y="146.7142769949777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-2" value="状态机任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="339" y="237" width="90" height="47" as="geometry" />
         </mxCell>
