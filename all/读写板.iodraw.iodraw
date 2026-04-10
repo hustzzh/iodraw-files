@@ -10,11 +10,11 @@
         <mxCell id="JqfwRANyBKlxX18AEhvM-2" value="状态机任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="206" width="90" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="JqfwRANyBKlxX18AEhvM-3" value="传输控制任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="290" width="90" height="47" as="geometry" />
+        <mxCell id="JqfwRANyBKlxX18AEhvM-3" value="状态指示任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="344" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-4" value="数据存储任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="253" width="90" height="47" as="geometry" />
+          <mxGeometry x="304" y="266" width="90" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
