@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-1" value="SPI传输任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="339" y="170" width="90" height="47" as="geometry" />
+          <mxGeometry x="334" y="133" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqfwRANyBKlxX18AEhvM-2" target="JqfwRANyBKlxX18AEhvM-4">
           <mxGeometry relative="1" as="geometry" />
@@ -39,16 +39,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-4" value="数据存储任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="339" y="307" width="90" height="47" as="geometry" />
+          <mxGeometry x="339" y="333" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-9" value="最高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="303" y="170" width="42" height="26" as="geometry" />
+          <mxGeometry x="298" y="133" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-10" value="高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="309" y="237" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-11" value="中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="309" y="307" width="30" height="26" as="geometry" />
+          <mxGeometry x="309" y="320" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-12" value="最低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="301" y="426" width="42" height="26" as="geometry" />
