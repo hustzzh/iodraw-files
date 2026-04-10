@@ -7,6 +7,9 @@
         <mxCell id="JqfwRANyBKlxX18AEhvM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqfwRANyBKlxX18AEhvM-1" target="JqfwRANyBKlxX18AEhvM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JqfwRANyBKlxX18AEhvM-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqfwRANyBKlxX18AEhvM-1" target="JqfwRANyBKlxX18AEhvM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-1" value="SPI传输任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="339" y="133" width="90" height="47" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry x="439" y="235" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-19" value="传输中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="458" y="171" width="54" height="26" as="geometry" />
+          <mxGeometry x="445" y="173" width="54" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
