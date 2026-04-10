@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JqfwRANyBKlxX18AEhvM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JqfwRANyBKlxX18AEhvM-1" target="JqfwRANyBKlxX18AEhvM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-1" value="SPI传输任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="339" y="170" width="90" height="47" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry x="339" y="237" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-3" value="状态指示任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="339" y="393" width="90" height="47" as="geometry" />
+          <mxGeometry x="339" y="377" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="JqfwRANyBKlxX18AEhvM-4" value="数据存储任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="339" y="307" width="90" height="47" as="geometry" />
