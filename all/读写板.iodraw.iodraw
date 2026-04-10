@@ -31,11 +31,14 @@
         <mxCell id="JqfwRANyBKlxX18AEhvM-10" value="高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="309" y="237" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JqfwRANyBKlxX18AEhvM-11" value="高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JqfwRANyBKlxX18AEhvM-11" value="中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="309" y="307" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JqfwRANyBKlxX18AEhvM-12" value="高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="309" y="377" width="30" height="26" as="geometry" />
+        <mxCell id="JqfwRANyBKlxX18AEhvM-12" value="最低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="303" y="377" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JqfwRANyBKlxX18AEhvM-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="253" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
