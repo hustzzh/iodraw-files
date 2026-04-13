@@ -93,9 +93,10 @@
         <mxCell id="PHTLPP4ZkVX90VaEoBtE-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHTLPP4ZkVX90VaEoBtE-1" target="PHTLPP4ZkVX90VaEoBtE-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="354" y="696" />
-              <mxPoint x="354" y="673" />
-              <mxPoint x="387" y="673" />
+              <mxPoint x="266" y="670" />
+              <mxPoint x="354" y="670" />
+              <mxPoint x="354" y="678" />
+              <mxPoint x="387" y="678" />
             </Array>
           </mxGeometry>
         </mxCell>
