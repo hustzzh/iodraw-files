@@ -88,7 +88,10 @@
           <mxGeometry x="445" y="133" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PHTLPP4ZkVX90VaEoBtE-1" value="包头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219" y="696" width="120" height="60" as="geometry" />
+          <mxGeometry x="219" y="696" width="47" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="PHTLPP4ZkVX90VaEoBtE-2" value="包头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="696" width="94" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
