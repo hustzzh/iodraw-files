@@ -119,7 +119,7 @@
         <mxCell id="06HicYvq3T2a9buYsTId-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="06HicYvq3T2a9buYsTId-1" target="06HicYvq3T2a9buYsTId-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="06HicYvq3T2a9buYsTId-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Master&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;主机&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="06HicYvq3T2a9buYsTId-1" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;MCU&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93" y="835.5" width="73" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="06HicYvq3T2a9buYsTId-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;LVDS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
