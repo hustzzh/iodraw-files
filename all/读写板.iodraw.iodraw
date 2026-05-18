@@ -132,10 +132,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="06HicYvq3T2a9buYsTId-10" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Slaver&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;从机&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491" y="838" width="73" height="147.5" as="geometry" />
+          <mxGeometry x="528" y="836.75" width="73" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="06HicYvq3T2a9buYsTId-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;LVDS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="835.5" width="52" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="06HicYvq3T2a9buYsTId-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="34" y="764" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
