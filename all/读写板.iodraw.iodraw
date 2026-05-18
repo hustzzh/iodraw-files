@@ -158,8 +158,11 @@
         <mxCell id="06HicYvq3T2a9buYsTId-19" value="&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 19px;&quot;&gt;Slaver&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 19px; text-align: center;&quot;&gt;从机&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="428" y="994.6700000000001" width="112.67" height="30.33" as="geometry" />
         </mxCell>
-        <mxCell id="06HicYvq3T2a9buYsTId-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="312" y="849" width="40" height="26" as="geometry" />
+        <mxCell id="06HicYvq3T2a9buYsTId-24" value="CS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="849" width="35" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="06HicYvq3T2a9buYsTId-25" value="CLK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="312" y="885" width="41" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
