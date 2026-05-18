@@ -164,6 +164,9 @@
         <mxCell id="06HicYvq3T2a9buYsTId-25" value="CLK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="312" y="885" width="41" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="06HicYvq3T2a9buYsTId-26" value="MOSI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="921" width="49" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
