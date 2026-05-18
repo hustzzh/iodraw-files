@@ -113,6 +113,9 @@
         <mxCell id="06HicYvq3T2a9buYsTId-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Slaver&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;从机&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="838" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="06HicYvq3T2a9buYsTId-4" value="LVDS&lt;div&gt;发送&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="951" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
